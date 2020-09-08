@@ -1,3 +1,4 @@
+"Live link of the clone:  https://jaloo-firebase.web.app "
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
