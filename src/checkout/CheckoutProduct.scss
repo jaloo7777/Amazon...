@@ -1,0 +1,21 @@
+.checkoutProduct {
+  //   background-color: rgb(255, 255, 255);
+  //   width: 100%;
+  display: flex;
+
+  margin: 20px 0 0;
+  padding: 2rem;
+  img {
+    max-width: 300px;
+  }
+  &__item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 20px;
+  }
+  &__stars {
+    display: flex;
+  }
+}

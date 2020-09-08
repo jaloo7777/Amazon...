@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    background: white ;
+    flex-direction: column;
+    max-width:300px ;
+    min-width: 100px;
+    width: 100%;
+    align-items: center;
+    margin: 5px auto ;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+
+    img {
+        width: 300px;
+        height: 280px;
+    }
+     button {
+         background-color: #F3A847;
+         border: 0;
+         padding: .2rem;
+         margin: 5px;
+         border-radius: 3px;
+     }
+    // z-index: 1 ;
+    height: 100%;
+    &__rating {
+        display: flex;
+    }
+}
